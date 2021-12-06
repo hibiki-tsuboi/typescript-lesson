@@ -11,5 +11,8 @@
     "url": "git@github-pvt:hibiki-tsuboi/typescript-lesson.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
